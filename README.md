@@ -1,5 +1,5 @@
 # Crossyroad - Juego de Pygame
-Crossyroad es un juego desarrollado con Pygame donde el objetivo es navegar a través de enemigos y alcanzar la meta para ganar. El juego ofrece una experiencia desafiante con un sistema de selección de dificultad y enemigos en movimiento que incrementan la dificultad de alcanzar el objetivo.
+Crossyroad es un juego simple desarrollado con Pygame donde el objetivo es navegar a través de enemigos y alcanzar la meta para ganar. El juego ofrece una experiencia desafiante con un sistema de selección de dificultad y enemigos en movimiento que incrementan la dificultad de alcanzar el objetivo.
 
 # Características
 Selección de Dificultad: Elige entre un modo fácil y un modo difícil para ajustar la experiencia de juego a tu nivel de habilidad.
