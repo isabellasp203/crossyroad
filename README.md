@@ -19,12 +19,11 @@ Para ejecutar este juego, necesitas tener instalado Python y Pygame. Asegúrate 
 # Instalación de Pygame
 Pygame se puede instalar fácilmente usando pip. Ejecuta el siguiente comando en tu terminal:
 
-Copy code
-pip install pygame
+`pip install pygame`
 
 # Ejecución del Juego
 Para ejecutar el juego, navega al directorio que contiene el archivo del juego y ejecuta el siguiente comando en tu terminal:
 
-Copy code
-python crossyroad.py
-Disfruta el juego y trata de alcanzar la mayor puntuación posible. ¡Buena suerte!
+`python crossyroad.py`
+
+Disfruta el juego. ¡Buena suerte!
